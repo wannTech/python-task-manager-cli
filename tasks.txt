@@ -1,0 +1,2 @@
+buat script cli|True
+belajar python|False
