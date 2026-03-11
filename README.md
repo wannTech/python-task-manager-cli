@@ -16,6 +16,10 @@ Simple command line task manager built with Python.
 - CLI
 - File handling
 - List & Dictionary
+  
+## Demo
+
+![Task Manager Demo](demo.png)
 
 ## Example
 
